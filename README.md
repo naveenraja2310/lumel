@@ -62,6 +62,9 @@ Place your CSV files in the root directory with the filename **sample.csv**.
 ## 🏗️ **Schema Diagram**  
 For a visual representation of the database structure, refer to **schema.png** in the root folder.
 
+## ⏳ **Data Processing via CRON Job**  
+The **CRON job runs every midnight**, updating existing data if available or creating new records if absent.  
+
 ## 🧪 **API Testing with Postman**  
 
 This project includes a Postman collection for easy API testing and development.  
