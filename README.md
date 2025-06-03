@@ -1,4 +1,4 @@
-# **Lumel Backend Assessment - Sales Data Analysis System**  
+# **Sales Data Analysis System**  
 
 A high-performance sales data analysis system built in **Go**, designed to efficiently process and analyze large CSV files containing sales data.  
 
